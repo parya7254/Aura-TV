@@ -3,7 +3,7 @@ Aura-TV is a smart, designed from scratch, TV box running Linux! Featuring an Al
 
 # Key Features:
 |-|-|
-|-|-|
+|Features|Description|
 |Processor|Quad-Core Allwinner H616 Clocked at 1.51 GHz|
 |Memory:|4GB of LPDDR4|
 |Storage:|128GB SSD Connected Via SATA to USB Adapter Chip|
